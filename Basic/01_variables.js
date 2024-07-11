@@ -1,6 +1,7 @@
 //Vamos aprender a declarar Variables 
 
 //var
+//actualemte no se usa 
 var helloWorld = "¡Hello, JavasCript!"
 console.log(helloWorld)
 
